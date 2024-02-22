@@ -21,7 +21,5 @@ function aplicarDesconto(valor) {
     }
 }
 
-console.log(aplicarDesconto(0))
-
 module.exports = aplicarDesconto
 
